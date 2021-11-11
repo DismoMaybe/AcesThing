@@ -1,0 +1,16 @@
+{
+  "name": "spamton",
+  "version": "1.0.0",
+  "description": "general bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dismo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "ms": "^2.1.3"
+  }
+}
